@@ -5,4 +5,4 @@
 Чиним Баг в огурцах (от бранчмастера)
 
 User 2 меняет text
-Новая строчка от юзера1 - урока rebase
+New words from user1 for rebase lesson
